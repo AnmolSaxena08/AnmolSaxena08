@@ -54,7 +54,7 @@
 
 ### 🎯 Objective
 
-> ⚡ **Actively seeking:** **VLSI Design / RTL / FPGA** internships and full-time roles (**2026 Batch**).
+> ⚡ **Actively seeking:** **VLSI Design / RTL / FPGA** full-time roles (**2026 Batch**).
 
 ---
 
