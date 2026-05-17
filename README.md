@@ -116,13 +116,16 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ## 📡 Signal Waveform — Skill Level
 
-```
-  Verilog HDL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   95%  ████████████████████
-  MATLAB/Simulink ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%  ████████████████░░░░
-  FPGA/Vivado  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   82%  █████████████████░░░
-  Python       ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   70%  ████████████░░░░░░░░
-  C/Embedded C ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   75%  █████████████░░░░░░░
-  AutoCAD      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   85%  ████████████░░░░░░░░
+### 🛠️ Tech Stack & Proficiency
+
+| Technology | Proficiency Bar |
+| :--- | :--- |
+| **Verilog HDL** | ![95%](https://img.shields.io/badge/Progress-95%25-00ff88?style=flat-square&logo=cpu) |
+| **FPGA / Vivado** | ![82%](https://img.shields.io/badge/Progress-82%25-00cc66?style=flat-square&logo=xilinx) |
+| **MATLAB / Simulink** | ![80%](https://img.shields.io/badge/Progress-80%25-00aa55?style=flat-square&logo=mathworks) |
+| **C / Embedded C** | ![75%](https://img.shields.io/badge/Progress-75%25-008844?style=flat-square&logo=c) |
+| **Python** | ![70%](https://img.shields.io/badge/Progress-70%25-006633?style=flat-square&logo=python) |
+| **AutoCAD** | ![65%](https://img.shields.io/badge/Progress-65%25-004422?style=flat-square&logo=autodesk) |
 ```
 
 ---
