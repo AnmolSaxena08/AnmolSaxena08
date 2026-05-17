@@ -77,13 +77,12 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 ## 🏆 Achievements
 
 ```
-╔─────────────────────────────────────────────────────────────╗
-│  🥇  HDL-Bits Rank #1     — 180+ Verilog problems solved    │
-│  🥇  Branch Topper        — 2nd Semester, GCET              │
-│  📄  Published Author     — IEEE/Journal, May 2025          │
-│       "Voltage Sag Characteristics in Power Distribution    │
-│        Systems under Fault Conditions"                      │
-╚─────────────────────────────────────────────────────────────╝
+╔──────────────────────────────────────────────────────────────────────────────────────────────────────╗
+│  🥇  HDL-Bits Rank #1     — 180+ Verilog problems solved                                             │
+│  🥇  Branch Topper        — 2nd Semester, GCET                                                       │
+│  📄  Published Author     — IEEE/Journal, May 2025                                                   │
+│       "Voltage Sag Characteristics in Power Distribution Systems under Fault Conditions"             │
+╚──────────────────────────────────────────────────────────────────────────────────────────────────────╝
 ```
 
 ---
