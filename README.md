@@ -46,7 +46,7 @@ endmodule
 > **Test your ECE fundamentals! Can you identify all 7 gates?**
 > A fully playable browser game — truth tables, symbols & scoring.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolSaxena08/game/main/Logic-gate.png" alt="Logic Gate Challenge Screenshot" width="50%">
+  <img src="https://raw.githubusercontent.com/AnmolSaxena08/game/main/Logic-gate.png" alt="Logic Gate Challenge Screenshot" width="80%">
 </p>
 
 An interactive, web-based digital logic quiz game designed with a sleek cyberpunk/neon aesthetic. Test your conceptual understanding of fundamental logic gates through real-time truth tables and schematic symbol identification.
