@@ -165,7 +165,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 ┌─────────────────────────────────────────────────────┐
 │  Input Image → RTL Filter Module → Output Image     │
 │  Tools: Vivado, VSCode                              │
-│  Implemented: Gaussian, Edge Detection, Median      │
+│  Implemented: Sketch, Colour boost, Duotone etc.    │
 └─────────────────────────────────────────────────────┘
 ```
 - Designed RTL-level Verilog for multiple image processing filters
