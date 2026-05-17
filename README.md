@@ -14,32 +14,16 @@
 </div>
 
 
-## 🧠 System Specification
+## 👨‍💻 About
 
-```verilog
-module Anmol_Saxena (
-  input  wire  curiosity,
-  input  wire  coffee,
-  output reg   innovation,
-  output reg   working_circuit
-);
-  // ECE Undergrad @ Galgotias College of Engineering & Technology
-  // Location    : Greater Noida, India
-  // SGPA        : 8.00 / 10.00
-  // Batch       : Nov 2022 – June 2026
-  // Interests   : FPGA Design, Digital Circuits, Power Systems, DSP
+**ECE Undergraduate** at Galgotias College of Engineering & Technology (Nov 2022 – Jun 2026), Greater Noida, India. SGPA: **8.00 / 10.00** · **Branch Topper**, 2nd Semester.
 
-  always @(posedge curiosity or posedge coffee) begin
-    innovation   <= 1'b1;
-    working_circuit <= curiosity & ~procrastination;
-  end
+Specializing in **RTL design, FPGA implementation, and digital system verification** using Verilog HDL. Published IEEE researcher in power systems. Ranked **#1 on HDLBits** with 180+ Verilog problems solved — demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.
 
-endmodule
-```
+> **Actively seeking:** VLSI Design / RTL / FPGA internships and full-time roles (2026 batch).
 
 ---
 
----
 
 ## ⚡ Logic Gate Challenge — Mini Game
 
