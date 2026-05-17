@@ -44,7 +44,7 @@ endmodule
 > **Test your ECE fundamentals! Can you identify all 7 gates?**
 > A fully playable browser game — truth tables, symbols & scoring.
 
-🎮 **[▶ PLAY NOW — Logic Gate Challenge](https://github.com/AnmolSaxena08/logic-gate-game/blob/main/index.html)**
+🎮 **[▶ PLAY NOW — Logic Gate Challenge](https://github.com/AnmolSaxena08/logic-gate-game)**
 
 <div align="center">
 
