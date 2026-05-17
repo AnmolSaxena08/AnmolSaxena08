@@ -115,49 +115,16 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 ---
 
 
-### 📊 Skill Metrics
+### 🛠️ Tech Stack & Proficiency
 
-**Verilog HDL (95%)**
-<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
-  <div style="width: 95%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
-</div>
-
-<br>
-
-**FPGA / Vivado (82%)**
-<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
-  <div style="width: 82%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
-</div>
-
-<br>
-
-**MATLAB / Simulink (80%)**
-<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
-  <div style="width: 80%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
-</div>
-
-<br>
-
-**C / Embedded C (75%)**
-<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
-  <div style="width: 75%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
-</div>
-
-<br>
-
-**Python (70%)**
-<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
-  <div style="width: 70%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
-</div>
-
-<br>
-
-**AutoCAD (65%)**
-<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
-  <div style="width: 65%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
-</div>
-```
-
+| Technology | Proficiency Bar |
+| :--- | :--- |
+| **Verilog HDL** | ![95%](https://img.shields.io/badge/Progress-95%25-00ff88?style=flat-square&logo=cpu) |
+| **FPGA / Vivado** | ![82%](https://img.shields.io/badge/Progress-82%25-00cc66?style=flat-square&logo=xilinx) |
+| **MATLAB / Simulink** | ![80%](https://img.shields.io/badge/Progress-80%25-00aa55?style=flat-square&logo=mathworks) |
+| **C / Embedded C** | ![75%](https://img.shields.io/badge/Progress-75%25-008844?style=flat-square&logo=c) |
+| **Python** | ![70%](https://img.shields.io/badge/Progress-70%25-006633?style=flat-square&logo=python) |
+| **AutoCAD** | ![65%](https://img.shields.io/badge/Progress-65%25-004422?style=flat-square&logo=autodesk) |
 ---
 
 ## 💼 Experience — Industrial Internships
@@ -277,11 +244,3 @@ github     : @AnmolSaxena08
 </div>
 
 
-
-</div>
-
----
-
-<div align="center">
-<sub>🔌 Powered by caffeine, logic gates, and MATLAB crashes | Made with ❤️ by Anmol Saxena</sub>
-</div>
