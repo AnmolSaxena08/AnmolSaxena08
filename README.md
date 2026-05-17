@@ -16,16 +16,47 @@
 
 ## 👨‍💻 About
 
-**ECE Undergraduate** at Galgotias College of Engineering & Technology (Nov 2022 – Jun 2026), Greater Noida, India.  
-**SGPA:** 8.00 / 10.00  
-**Branch Topper:** 2nd Semester.  
+<table>
+  <tr>
+    <td>
+      <strong>🎓 Institution</strong>
+    </td>
+    <td>
+      Galgotias College of Engineering & Technology, Greater Noida, India
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>📅 Timeline</strong>
+    </td>
+    <td>
+      Nov 2022 – Jun 2026
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>📊 Academic Record</strong>
+    </td>
+    <td>
+      <strong>SGPA:</strong> <code>8.00 / 10.00</code> <br>
+      <strong>🏆 Branch Topper:</strong> 2nd Semester
+    </td>
+  </tr>
+</table>
 
-Specializing in **RTL design, FPGA implementation, and digital system verification** using Verilog HDL.  
-Published IEEE researcher in power systems.  
-Ranked **#1 on HDLBits** with 180+ Verilog problems solved —  demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.  
+### 🚀 Core Expertise & Specialization
 
-> **Actively seeking:** VLSI Design / RTL / FPGA internships and full-time roles (2026 batch).
+* **Hardware Description:** Advanced **RTL Design**, **FPGA Implementation**, and rigorous **Digital System Verification** using **Verilog HDL**.
+* **Research & Development:** Published **IEEE Researcher** in Power Systems.
+* **Problem Solving:** Ranked **#1 on HDLBits** with **180+ Verilog problems** solved — demonstrating a strong command over *combinational logic*, *sequential circuits*, *FSMs*, and *pipelining*.
 
+---
+
+### 🎯 Objective
+
+> ⚡ **Actively seeking:** **VLSI Design / RTL / FPGA** internships and full-time roles (**2026 Batch**).
+
+---
 
 ## ⚡ Logic Gate Challenge — Mini Game
 
