@@ -3,7 +3,7 @@
 
 # `anmol@galgotias:~$ whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=ECE+Undergrad+%7C+FPGA+%7C+Verilog+%7C+MATLAB;HDL-bits+Rank+1+%7C+Branch+Topper+%7C+Published+Author;Building+circuits+%2C+one+gate+at+a+time...⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=ECE+Undergrad+%7C+FPGA+%7C+Digital+Design+%7C+Verilog" alt="typing">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/Panth_Saxena)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/anmol-saxena-15431424b)
@@ -44,7 +44,7 @@ endmodule
 > **Test your ECE fundamentals! Can you identify all 7 gates?**
 > A fully playable browser game — truth tables, symbols & scoring.
 
-🎮 **[▶ PLAY NOW — Logic Gate Challenge](https://github.com/AnmolSaxena08/logic-gate-game)**
+🎮 **[▶ PLAY NOW — Logic Gate Challenge](https://anmolsaxena08.github.io/logic-gate-game/)**
 
 <div align="center">
 
@@ -190,11 +190,11 @@ endmodule
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66&icon_color=00ff88" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66" alt="GitHub Stats">
 
-<img height="180" src="https://streak-stats.demolab.com/?user=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&background=0a0e1a&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88" alt="GitHub Streak"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&background=0a0e1a&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88" alt="GitHub Streak">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66&layout=compact" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66&layout=compact" alt="Top Languages">
 
 </div>
 
