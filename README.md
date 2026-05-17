@@ -3,7 +3,7 @@
 
 # `Anmol Saxena`
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=ECE+Undergrad+%7C+FPGA+%7C+ASIC+%7C+Digital+Design+%7C+VLSI" alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=ECE+Undergraduate+%7C+FPGA+%7C+ASIC+%7C+Digital+Design+%7C+VLSI" alt="typing">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/Panth_Saxena)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/anmol-saxena-15431424b)
