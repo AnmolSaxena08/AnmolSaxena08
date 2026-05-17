@@ -22,8 +22,7 @@
 
 Specializing in **RTL design, FPGA implementation, and digital system verification** using Verilog HDL.  
 Published IEEE researcher in power systems.  
-Ranked **#1 on HDLBits** with 180+ Verilog problems solved —  
-demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.  
+Ranked **#1 on HDLBits** with 180+ Verilog problems solved —  demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.  
 
 > **Actively seeking:** VLSI Design / RTL / FPGA internships and full-time roles (2026 batch).
 
