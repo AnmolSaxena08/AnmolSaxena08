@@ -13,183 +13,217 @@
 
 </div>
 
----
+--
 
-## 👨‍💻 About
+## 🧠 System Specification
 
-**ECE Undergraduate** at Galgotias College of Engineering & Technology (Nov 2022 – Jun 2026), Greater Noida, India. SGPA: **8.00 / 10.00** · **Branch Topper**, 2nd Semester.
+```verilog
+module Anmol_Saxena (
+  input  wire  curiosity,
+  input  wire  coffee,
+  output reg   innovation,
+  output reg   working_circuit
+);
+  // ECE Undergrad @ Galgotias College of Engineering & Technology
+  // Location    : Greater Noida, India
+  // SGPA        : 8.00 / 10.00
+  // Batch       : Nov 2022 – June 2026
+  // Interests   : FPGA Design, Digital Circuits, Power Systems, DSP
 
-Specializing in **RTL design, FPGA implementation, and digital system verification** using Verilog HDL. Published IEEE researcher in power systems. Ranked **#1 on HDLBits** with 180+ Verilog problems solved — demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.
+  always @(posedge curiosity or posedge coffee) begin
+    innovation   <= 1'b1;
+    working_circuit <= curiosity & ~procrastination;
+  end
 
-> **Actively seeking:** VLSI Design / RTL / FPGA internships and full-time roles (2026 batch).
-
----
-
-## 🔬 Core Skills
-
-| Domain | Tools & Technologies |
-|---|---|
-| **HDL / RTL Design** | Verilog HDL, SystemVerilog (basics), VHDL (reading) |
-| **FPGA & EDA** | Xilinx Vivado, ISE, Basys3 / Nexys boards |
-| **Simulation & Verification** | Functional sim, testbench writing, waveform analysis |
-| **Power Systems** | MATLAB Simulink, Simscape, DVR modeling |
-| **Embedded Systems** | Arduino, Embedded C, PWM control, ADC interfacing |
-| **Programming** | Python, C, MATLAB scripting, Excel VBA |
-| **Design Tools** | AutoCAD (FTTH fiber layout), VS Code |
-
----
-
-## 🏆 Highlights
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🥇  HDLBits Rank #1        180+ Verilog problems solved            │
-│       Covers: Combinational, Sequential, FSM, Pipeline, Arithmetic  │
-│                                                                     │
-│  🥇  Branch Topper           2nd Semester — GCET (ECE Dept.)       │
-│                                                                     │
-│  📄  Published Researcher    IEEE / Journal — May 2025              │
-│       "Voltage Sag Characteristics in Power Distribution            │
-│        Systems under Fault Conditions"                              │
-└─────────────────────────────────────────────────────────────────────┘
+endmodule
 ```
 
 ---
 
-## 🚀 Featured Projects
+---
 
-### 1. Digital Image Filters — RTL Design in Verilog
-> **Tools:** Xilinx Vivado · Verilog HDL · VS Code
+## ⚡ Logic Gate Challenge — Mini Game
 
-- Implemented **Gaussian Blur, Edge Detection (Sobel), and Median Filter** at RTL level in Verilog
-- Designed modular, synthesizable architecture with parameterizable kernel sizes
-- Wrote functional testbenches; verified output pixel arrays against MATLAB reference
-- Performed timing analysis and simulation inside Xilinx Vivado
+> **Test your ECE fundamentals! Can you identify all 7 gates?**
+> A fully playable browser game — truth tables, symbols & scoring.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnmolSaxena08/game/main/Logic-gate.png" alt="Logic Gate Challenge Screenshot" width="70%">
+</p>
+
+An interactive, web-based digital logic quiz game designed with a sleek cyberpunk/neon aesthetic. Test your conceptual understanding of fundamental logic gates through real-time truth tables and schematic symbol identification.
+
+* **Play Now:** [Click](https://anmolsaxena08.github.io/Game/)
+
+
+---
+
+
+## 🏆 Achievements
 
 ```
-Input BMP → Verilog RTL Filter Module → Output Image
-            ├── gaussian_filter.v
-            ├── edge_detect.v (Sobel Operator)
-            └── median_filter.v
+╔─────────────────────────────────────────────────────────────╗
+│  🥇  HDL-Bits Rank #1     — 180+ Verilog problems solved    │
+│  🥇  Branch Topper        — 2nd Semester, GCET              │
+│  📄  Published Author     — IEEE/Journal, May 2025          │
+│       "Voltage Sag Characteristics in Power Distribution    │
+│        Systems under Fault Conditions"                      │
+╚─────────────────────────────────────────────────────────────╝
 ```
 
 ---
 
-### 2. Voltage Sag Mitigation using DVR — MATLAB Simulink
-> **Tools:** MATLAB R2023b · Simulink · Simscape · **[IEEE Published ↗](https://anmolsaxena08.github.io)**
+## 🔧 Tech Stack
 
-- Modeled a **Dynamic Voltage Restorer (DVR)** for real-time voltage sag detection and compensation
-- Simulated single-phase and three-phase fault conditions on a distribution feeder
-- Validated restorer injection voltage, load voltage recovery, and transient response waveforms
-- Results published: *"Voltage Sag Characteristics in Power Distribution Systems under Fault Conditions"* — May 2025
+<div align="center">
+
+**Hardware & HDL**
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-%23FF6600?style=for-the-badge&logo=intel&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-Xilinx%20Vivado-%23E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded%20C-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Software & Simulation**
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink%2FSimscape-%23E16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Systems%20Programming-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Tools**
+
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-RTL%20Design-%23E01F27?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Fiber%20Design-%23E51050?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-Automation-%23217346?style=flat-square&logo=microsoft-excel)
+
+</div>
+
+---
+
+## 📡 Signal Waveform — Skill Level
 
 ```
-Grid Source → Fault Injection → DVR Controller → Protected Load
-                                     ↑
-                           PI Controller + PWM Inverter
+  Verilog HDL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   95%  ████████████████████
+  MATLAB/Simulink ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%  ████████████████░░░░
+  FPGA/Vivado  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   82%  █████████████████░░░
+  Python       ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60%  ████████████░░░░░░░░
+  C/Embedded C ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   70%  █████████████░░░░░░░
+  AutoCAD      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   65%  ████████████░░░░░░░░
 ```
 
 ---
 
-### 3. Temperature-Based Fan Speed Controller — Arduino Embedded
-> **Tools:** Arduino UNO · LM35 · Embedded C · PWM
+## 💼 Experience — Industrial Internships
 
-- Built closed-loop feedback controller using LM35 analog temperature sensor
-- Implemented 3-zone PWM speed control (OFF / 50% / 100%) with hysteresis to prevent chattering
-- Interfaced LCD for real-time temperature and duty cycle display
+<table>
+<tr>
+<td width="50%">
 
+### 🔌 Pearce Services Global
+**FTTH Optical Fiber Design Intern**
+`Jul 2025 – Jul 2025`
+
+- Reviewed FTTH optical fiber distribution designs for residential servicing
+- Identified and corrected layout errors during final delivery
+- Validated fiber routing, terminal locations, and drop designs
+- Finalized designs at FROG stage & prepared as-built documentation
+
+</td>
+<td width="50%">
+
+### 🏭 Uflex Limited
+**Production Department Intern**
+
+- Operated and monitored machines via computer systems
+- Handled real-time issues and applied practical solutions
+- Assisted in modifying and optimizing machine operations
+- Gained exposure to industrial workflow and safety practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+### 🖼️ Digital Image Filters — Verilog HDL on Vivado
 ```
-LM35 → 10-bit ADC → Arduino → PWM (Timer1) → DC Fan Motor
-Temp < 25°C  →  0%   duty cycle  (fan OFF)
-Temp 25–35°C →  50%  duty cycle  (slow)
-Temp > 35°C  →  100% duty cycle  (full speed)
+┌─────────────────────────────────────────────────────┐
+│  Input Image → RTL Filter Module → Output Image     │
+│  Tools: Vivado, VSCode                              │
+│  Implemented: Gaussian, Edge Detection, Median      │
+└─────────────────────────────────────────────────────┘
+```
+- Designed RTL-level Verilog for multiple image processing filters
+- Performed simulation, verification, and debugging in Xilinx Vivado
+
+---
+
+### 🌡️ Temperature-Based Fan Speed Controller — Arduino
+```
+  LM35 Sensor → ADC → Arduino → PWM Signal → Fan Motor
+  ─────────────────────────────────────────────────────
+  Temp < 25°C  →  Fan OFF    (PWM duty = 0%)
+  Temp 25–35°C →  Fan SLOW   (PWM duty = 50%)
+  Temp > 35°C  →  Fan FULL   (PWM duty = 100%)
 ```
 
 ---
 
-### 4. Logic Gate Challenge — Interactive Web Game
-> **Stack:** HTML · CSS · JavaScript · SVG · Deployed via GitHub Pages
-
-- Built a **browser-based ECE quiz game** testing logic gate recognition via symbol + truth table
-- Features 7 gates (AND, OR, NOT, NAND, NOR, XOR, XNOR), scoring, streaks, and timed rounds
-- Custom SVG gate symbols drawn programmatically; neon/cyberpunk aesthetic
-
-🎮 **[Play Live →](https://anmolsaxena08.github.io/Game/)** &nbsp;|&nbsp; 📁 **[Source Code →](https://github.com/AnmolSaxena08/Game)**
+### ⚡ Voltage Sag Mitigation — MATLAB Simulink [![GitHub](https://img.shields.io/badge/View-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/AnmolSaxena08)
+```
+  Grid → Fault Event → DVR System → Load (Protected)
+  ─────────────────────────────────────────────────────
+  Simulated DVR (Dynamic Voltage Restorer) for power
+  quality improvement under fault conditions.
+```
+- Modeled voltage sag characteristics using Simulink/Simscape
+- **Published:** "Voltage Sag Characteristics in Power Distribution Systems under Fault Conditions" — May 2025
 
 ---
 
-## 💼 Work Experience
+## 📊 GitHub Analytics
 
-### FTTH Optical Fiber Design Intern — Pearce Services Global
-`Jul 2025` · Remote
+<div align="center">
 
-- Reviewed and **validated FTTH fiber distribution designs** for residential last-mile connectivity
-- Identified layout errors in drop designs, terminal placements, and fiber routing paths
-- Finalized designs at FROG (Fiber Ready on Ground) stage and prepared as-built documentation
-- Worked with AutoCAD-based fiber design tools under production delivery timelines
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66" alt="GitHub Stats">
 
-### Production Department Intern — Uflex Limited
-`Duration not specified` · Industrial
+<img height="180" src="https://streak-stats.demolab.com/?user=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&background=0a0e1a&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88" alt="GitHub Streak">
 
-- Monitored industrial machines via computer control systems; diagnosed real-time faults
-- Assisted in operational optimization and workflow documentation
-- Gained hands-on exposure to industrial safety protocols and high-throughput production environments
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66&layout=compact" alt="Top Languages">
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issuer | Year |
+| Certification | Issuer | Domain |
 |---|---|---|
-| Applications of Remote Sensing & GIS Technology | **ISRO** (Indian Space Research Organisation) | 2024 |
-| VLSI Digital Design — Chip Design & Verilog Programming | **Infosys Springboard** | 2024 |
+| 🛰️ Applications of Remote Sensing & GIS Technology | **ISRO** | Geospatial |
+| 🔬 VLSI Digital Design — Chip Design & Verilog Programming | **Infosys** | VLSI / HDL |
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
+
+```
+mail:  anmolsaxena1520@gmail.com
+linkedin   : linkedin.com/in/anmol-saxena-15431424b
+instagram  : @Panth_Saxena
+github     : @AnmolSaxena08
+```
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.shion.dev/api?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66">
+**"First, solve the problem. Then, write the code."**
+— *an engineer's clock never goes negative*
 
-<img height="175" src="https://streak-stats.demolab.com/?user=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&background=0a0e1a&ring=00ff88&fire=00ffcc&currStreakLabel=00ff88">
 
 </div>
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnmolSaxena08&theme=chartreuse-dark&hide_border=true&bg_color=0a0e1a&title_color=00ff88&text_color=00cc66&layout=compact&langs_count=6">
-
-</div>
-
 ---
 
-## 📡 Skill Proficiency
-
-```
-Verilog HDL      ████████████████████░   95%  (180+ HDLBits problems, RTL projects)
-FPGA / Vivado    █████████████████░░░░   82%  (Synthesis, P&R, timing analysis)
-MATLAB/Simulink  ████████████████░░░░░   80%  (DVR modeling, IEEE publication)
-Embedded C       █████████████░░░░░░░░   70%  (Arduino, PWM, ADC, sensor fusion)
-Python           ████████████░░░░░░░░░   60%  (Scripting, data processing)
-AutoCAD          █████████████░░░░░░░░   65%  (FTTH fiber network design)
-```
-
----
-
-## 📬 Contact
-
-```
-Email     :  anmolsaxena1520@gmail.com
-LinkedIn  :  linkedin.com/in/anmol-saxena-15431424b
-GitHub    :  github.com/AnmolSaxena08
-Instagram :  @Panth_Saxena
-```
-
 <div align="center">
-
-*ECE 2026 · Open to VLSI / RTL / FPGA roles · Greater Noida, India*
-
-<sub>🔌 Powered by caffeine, logic gates, and MATLAB crashes · Made with ❤️ by Anmol Saxena</sub>
-
+<sub>🔌 Powered by caffeine, logic gates, and MATLAB crashes | Made with ❤️ by Anmol Saxena</sub>
 </div>
