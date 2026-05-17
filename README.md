@@ -51,7 +51,7 @@ endmodule
 
 An interactive, web-based digital logic quiz game designed with a sleek cyberpunk/neon aesthetic. Test your conceptual understanding of fundamental logic gates through real-time truth tables and schematic symbol identification.
 
-* **Play Now:** [▶ 🚀](https://anmolsaxena08.github.io/Game/)
+* **Play Now:** [Click](https://anmolsaxena08.github.io/Game/)
 
 
 ---
