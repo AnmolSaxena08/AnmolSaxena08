@@ -121,9 +121,9 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
   Verilog HDL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   95%  ████████████████████
   MATLAB/Simulink ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  80%  ████████████████░░░░
   FPGA/Vivado  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   82%  █████████████████░░░
-  Python       ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60%  ████████████░░░░░░░░
-  C/Embedded C ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   70%  █████████████░░░░░░░
-  AutoCAD      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   65%  ████████████░░░░░░░░
+  Python       ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   70%  ████████████░░░░░░░░
+  C/Embedded C ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   75%  █████████████░░░░░░░
+  AutoCAD      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   85%  ████████████░░░░░░░░
 ```
 
 ---
@@ -136,7 +136,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🔌 Pearce Services Global
 **FTTH Optical Fiber Design Intern**
-`Jul 2025 – Jul 2025`
+`Nov 03 2025 – Current`
 
 - Reviewed FTTH optical fiber distribution designs for residential servicing
 - Identified and corrected layout errors during final delivery
@@ -148,6 +148,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🏭 Uflex Limited
 **Production Department Intern**
+`Jul 1st 2025 – Jul 31st 2025`
 
 - Operated and monitored machines via computer systems
 - Handled real-time issues and applied practical solutions
