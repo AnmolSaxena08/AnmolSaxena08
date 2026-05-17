@@ -87,33 +87,6 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ---
 
-## 🔧 Tech Stack
-
-<div align="center">
-
-**Hardware & HDL**
-
-![Verilog](https://img.shields.io/badge/Verilog-HDL-%23FF6600?style=for-the-badge&logo=intel&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-Xilinx%20Vivado-%23E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-Embedded%20C-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Software & Simulation**
-
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulink%2FSimscape-%23E16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Systems%20Programming-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Tools**
-
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-RTL%20Design-%23E01F27?style=flat-square)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Fiber%20Design-%23E51050?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-Automation-%23217346?style=flat-square&logo=microsoft-excel)
-
-</div>
-
----
-
 ## 📡 Signal Waveform — Skill Level
 
 ### 🛠️ Tech Stack & Proficiency
