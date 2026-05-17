@@ -41,11 +41,12 @@ endmodule
 
 ---
 
-## 🕹️ Featured Projects
+## ⚡ Logic Gate Challenge — Mini Game
 
-### ⚡ Logic Gate Challenge
+> **Test your ECE fundamentals! Can you identify all 7 gates?**
+> A fully playable browser game — truth tables, symbols & scoring.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolSaxena08/game/main/Logic-gate.png" alt="Logic Gate Challenge Screenshot" width="100%">
+  <img src="https://raw.githubusercontent.com/AnmolSaxena08/game/main/Logic-gate.png" alt="Logic Gate Challenge Screenshot" width="50%">
 </p>
 
 An interactive, web-based digital logic quiz game designed with a sleek cyberpunk/neon aesthetic. Test your conceptual understanding of fundamental logic gates through real-time truth tables and schematic symbol identification.
@@ -56,28 +57,6 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ---
 
-## ⚡ Logic Gate Challenge — Mini Game
-
-> **Test your ECE fundamentals! Can you identify all 7 gates?**
-> A fully playable browser game — truth tables, symbols & scoring.
-
-🎮 **[▶ PLAY NOW — Logic Gate Challenge](https://anmolsaxena08.github.io/Game/)**
-
-<div align="center">
-
-| Gate | Symbol | Rule |
-|------|--------|------|
-| AND  | `A · B` | Output HIGH only when ALL inputs HIGH |
-| OR   | `A + B` | Output HIGH when ANY input HIGH |
-| NOT  | `Ā`     | Always inverts the input |
-| NAND | `(A·B)'`| Inverse of AND — universal gate |
-| NOR  | `(A+B)'`| Inverse of OR — universal gate |
-| XOR  | `A ⊕ B` | HIGH when inputs are DIFFERENT |
-| XNOR | `(A⊕B)'`| HIGH when inputs are EQUAL |
-
-</div>
-
----
 
 ## 🏆 Achievements
 
