@@ -87,18 +87,75 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ---
 
-## 📡 Signal Waveform — Skill Level
+## 🔧 Tech Stack
 
-### 🛠️ Tech Stack & Proficiency
+<div align="center">
 
-| Technology | Proficiency Bar |
-| :--- | :--- |
-| **Verilog HDL** | ![95%](https://img.shields.io/badge/Progress-95%25-00ff88?style=flat-square&logo=cpu) |
-| **FPGA / Vivado** | ![82%](https://img.shields.io/badge/Progress-82%25-00cc66?style=flat-square&logo=xilinx) |
-| **MATLAB / Simulink** | ![80%](https://img.shields.io/badge/Progress-80%25-00aa55?style=flat-square&logo=mathworks) |
-| **C / Embedded C** | ![75%](https://img.shields.io/badge/Progress-75%25-008844?style=flat-square&logo=c) |
-| **Python** | ![70%](https://img.shields.io/badge/Progress-70%25-006633?style=flat-square&logo=python) |
-| **AutoCAD** | ![65%](https://img.shields.io/badge/Progress-65%25-004422?style=flat-square&logo=autodesk) |
+**Hardware & HDL**
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-%23FF6600?style=for-the-badge&logo=intel&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-Xilinx%20Vivado-%23E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded%20C-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Software & Simulation**
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink%2FSimscape-%23E16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Systems%20Programming-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Tools**
+
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-RTL%20Design-%23E01F27?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Fiber%20Design-%23E51050?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-Automation-%23217346?style=flat-square&logo=microsoft-excel)
+
+</div>
+
+---
+
+
+### 📊 Skill Metrics
+
+**Verilog HDL (95%)**
+<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
+  <div style="width: 95%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
+</div>
+
+<br>
+
+**FPGA / Vivado (82%)**
+<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
+  <div style="width: 82%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
+</div>
+
+<br>
+
+**MATLAB / Simulink (80%)**
+<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
+  <div style="width: 80%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
+</div>
+
+<br>
+
+**C / Embedded C (75%)**
+<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
+  <div style="width: 75%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
+</div>
+
+<br>
+
+**Python (70%)**
+<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
+  <div style="width: 70%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
+</div>
+
+<br>
+
+**AutoCAD (65%)**
+<div style="width: 100%; background-color: #0a0e1a; border: 1px solid rgba(0,255,136,0.2); border-radius: 4px;">
+  <div style="width: 65%; background: linear-gradient(90deg, #00ff88, #00ffcc); height: 12px; border-radius: 3px;"></div>
+</div>
 ```
 
 ---
@@ -111,7 +168,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🔌 Pearce Services Global
 **FTTH Optical Fiber Design Intern**
-`Nov 03 2025 – Current`
+`Jul 2025 – Jul 2025`
 
 - Reviewed FTTH optical fiber distribution designs for residential servicing
 - Identified and corrected layout errors during final delivery
@@ -123,7 +180,6 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🏭 Uflex Limited
 **Production Department Intern**
-`Jul 1st 2025 – Jul 31st 2025`
 
 - Operated and monitored machines via computer systems
 - Handled real-time issues and applied practical solutions
@@ -210,6 +266,16 @@ github     : @AnmolSaxena08
 
 **"First, solve the problem. Then, write the code."**
 — *an engineer's clock never goes negative*
+
+
+</div>
+
+---
+
+<div align="center">
+<sub>🔌 Powered by caffeine, logic gates, and MATLAB crashes | Made with ❤️ by Anmol Saxena</sub>
+</div>
+
 
 
 </div>
