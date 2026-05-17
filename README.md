@@ -207,7 +207,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 ## 🤝 Let's Connect
 
 ```
-signal_path: [you] ──► anmolsaxena1520@gmail.com ──► [me]
+mail:  anmolsaxena1520@gmail.com
 linkedin   : linkedin.com/in/anmol-saxena-15431424b
 instagram  : @Panth_Saxena
 github     : @AnmolSaxena08
