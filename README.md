@@ -13,7 +13,6 @@
 
 </div>
 
---
 
 ## 🧠 System Specification
 
