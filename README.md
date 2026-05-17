@@ -16,18 +16,16 @@
 
 ## 👨‍💻 About
 
-**ECE Undergraduate** at Galgotias College of Engineering & Technology (Nov 2022 – Jun 2026), Greater Noida, India. 
-**SGPA: **8.00 / 10.00** · 
-**Branch Topper:**, 2nd Semester.
+**ECE Undergraduate** at Galgotias College of Engineering & Technology (Nov 2022 – Jun 2026), Greater Noida, India.  
+**SGPA:** 8.00 / 10.00  
+**Branch Topper:** 2nd Semester.  
 
-Specializing in **RTL design, FPGA implementation, and digital system verification** using Verilog HDL. 
-Published IEEE researcher in power systems. 
-Ranked **#1 on HDLBits** with 180+ Verilog problems solved — 
-demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.
+Specializing in **RTL design, FPGA implementation, and digital system verification** using Verilog HDL.  
+Published IEEE researcher in power systems.  
+Ranked **#1 on HDLBits** with 180+ Verilog problems solved —  
+demonstrating strong command over combinational logic, sequential circuits, FSMs, and pipelining.  
 
 > **Actively seeking:** VLSI Design / RTL / FPGA internships and full-time roles (2026 batch).
-
----
 
 
 ## ⚡ Logic Gate Challenge — Mini Game
