@@ -146,7 +146,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🏭 Uflex Limited
 **Production Department Intern**
-`Jul 2025 – Jul 2025`
+`Jul 1st 2025 – Jul 31st 2025`
 
 
 - Operated and monitored machines via computer systems
