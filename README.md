@@ -134,7 +134,7 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🔌 Pearce Services Global
 **FTTH Optical Fiber Design Intern**
-`Jul 2025 – Jul 2025`
+`Nov 3 2025 – Current`
 
 - Reviewed FTTH optical fiber distribution designs for residential servicing
 - Identified and corrected layout errors during final delivery
@@ -146,6 +146,8 @@ An interactive, web-based digital logic quiz game designed with a sleek cyberpun
 
 ### 🏭 Uflex Limited
 **Production Department Intern**
+`Jul 2025 – Jul 2025`
+
 
 - Operated and monitored machines via computer systems
 - Handled real-time issues and applied practical solutions
