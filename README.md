@@ -2,6 +2,7 @@
 
 # Anmol Saxena
 ### Digital Design Engineer · FPGA · VLSI · RTL Design
+### Business Analyst  |  Process Improvement & Automation  |  Data-Driven Operations
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=650&height=60&lines=RTL+Design+%7C+Verilog+HDL+%7C+FPGA+%7C+ASIC+%7C+Power+Systems+%7C+DSP" alt="typing">
 
